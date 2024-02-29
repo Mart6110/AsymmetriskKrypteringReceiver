@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsymmetriskKrypteringReceiver", "AsymmetriskKrypteringReceiver\AsymmetriskKrypteringReceiver.csproj", "{F33F9909-A745-448B-935E-7C1CBEEF7086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33F9909-A745-448B-935E-7C1CBEEF7086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33F9909-A745-448B-935E-7C1CBEEF7086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33F9909-A745-448B-935E-7C1CBEEF7086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33F9909-A745-448B-935E-7C1CBEEF7086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FDB24A3-EFEE-4793-8C93-C1BC0C9FB09F}
+	EndGlobalSection
+EndGlobal

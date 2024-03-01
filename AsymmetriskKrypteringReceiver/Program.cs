@@ -119,7 +119,7 @@ namespace AsymmetricEncryptionReceiver
         // Method to format text with color
         static string FormatColor(ConsoleColor color, string text)
         {
-            return $"\u001b[38;5;{(int)color}m{text}ms\u001b[0m"; // ANSI escape code for text color
+            return $"\u001b[38;5;{(int)color}m{text}\u001b[0m"; // ANSI escape code for text color
         }
     }
 }
